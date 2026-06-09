@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Eirinaios Patronas but you can call me Reno. I am a 23 years old introvert person who’s able to work with a group of people and appreciates collaborating with experienced colleagues who encourage learning in daily basis. My interests are video editing and digital content creation mainly with DaVinci Resolve. Moreover, I am always eager to learn new skills, improve and contribute to projects. In addition, I am a person who has very good time management and experience working as part of a team and individually. Last but not least, I have successfully met deadlines on every project I’ve worked on.
 <!--
 **RenosPt/RenosPt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
